@@ -1,4 +1,4 @@
-# My exercises
+# My answer
 import sys
 
 version = sys.version.split(maxsplit=1)
